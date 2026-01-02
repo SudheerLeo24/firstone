@@ -2,6 +2,7 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import './index.css'
 import App from './App.jsx'
+import Two from './Components/Two.jsx'
 // import Timerevents from './Components/Timerevents.jsx'
 // import Usestate from './Components/Usestate.jsx'
 // import Databinding from './Components/databinding.jsx'
@@ -16,6 +17,7 @@ import App from './App.jsx'
 // import Conditionalrender from './Components/Conditionalrender.jsx'
 // import Demo from './Components/Demo.jsx'
 // import Lifecomponent from './Components/Lifecomponent.jsx'
+
 import Routing from './Components/Routing.jsx'
 
 
